@@ -21,7 +21,7 @@ import { DataSource } from "typeorm";
 const AppDataSource = new DataSource({
     // database: 'lbbsmqiy', // se for SQLite, então use bdaula.sqlite
     type: "postgres", // se for SQLite, então use sqlite
-    url: 'postgres://lbbsmqiy:ZXYpXbkj6ub-G6zlzikB3nFB9Q5pLE43@silly.db.elephantsql.com/lbbsmqiy', // não use esta propriedade se for sqlite
+    url: 'postgres://ldulhqyk:tTasOpbto4WhHbnL0_QZAbuO1rhw8RUi@silly.db.elephantsql.com/ldulhqyk', // não use esta propriedade se for sqlite
     // port: 5432, // não use esta propriedade se for sqlite
     // username: 'postgres', // não use esta propriedade se for sqlite
     // password:'ZXYpXbkj6ub-G6zlzikB3nFB9Q5pLE43', // não use esta propriedade se for sqlite
